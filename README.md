@@ -1,0 +1,3 @@
+Package [`github.com/saranrapjs/deflate64`] adds support for the non-standard ["Deflate64"](https://en.wikipedia.org/wiki/Deflate#Deflate64) compression variant, for decompression only. It should play nice with the Go `archive/zip` package.
+
+I couldn't tell you why or where this is flavor of compression is used, but I can say that it started to be used by the IRS since 2025 for non-profit Form 990 ZIP archives!
